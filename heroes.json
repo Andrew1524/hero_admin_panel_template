@@ -1,0 +1,43 @@
+{
+  "heroes": [
+    {
+      "id": "5cb4bd55-0b9b-4bca-a879-51461b12bc6f",
+      "name": "Andrey",
+      "description": "dsfdsf",
+      "element": "fire"
+    },
+    {
+      "id": "21a3249a-6eca-4905-9f79-1ffb3a7fa038",
+      "name": "Lexus",
+      "description": "300",
+      "element": "earth"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
